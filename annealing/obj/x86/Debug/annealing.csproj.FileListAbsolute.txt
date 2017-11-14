@@ -1,0 +1,23 @@
+C:\Users\NoteBook\AppData\Local\Temporary Projects\annealing\bin\Debug\annealing.exe
+C:\Users\NoteBook\AppData\Local\Temporary Projects\annealing\bin\Debug\annealing.pdb
+C:\Users\NoteBook\AppData\Local\Temporary Projects\annealing\obj\x86\Debug\annealing.Form1.resources
+C:\Users\NoteBook\AppData\Local\Temporary Projects\annealing\obj\x86\Debug\annealing.Properties.Resources.resources
+C:\Users\NoteBook\AppData\Local\Temporary Projects\annealing\obj\x86\Debug\annealing.csproj.GenerateResource.Cache
+C:\Users\NoteBook\AppData\Local\Temporary Projects\annealing\obj\x86\Debug\annealing.exe
+C:\Users\NoteBook\AppData\Local\Temporary Projects\annealing\obj\x86\Debug\annealing.pdb
+C:\Users\NoteBook\documents\visual studio 2010\Projects\annealing\annealing\obj\x86\Debug\annealing.exe
+C:\Users\NoteBook\documents\visual studio 2010\Projects\annealing\annealing\obj\x86\Debug\annealing.pdb
+C:\Users\NoteBook\documents\visual studio 2010\Projects\annealing\annealing\obj\x86\Debug\annealing.Form1.resources
+C:\Users\NoteBook\documents\visual studio 2010\Projects\annealing\annealing\obj\x86\Debug\annealing.Properties.Resources.resources
+C:\Users\NoteBook\documents\visual studio 2010\Projects\annealing\annealing\obj\x86\Debug\annealing.csproj.GenerateResource.Cache
+C:\Users\NoteBook\documents\visual studio 2010\Projects\annealing\annealing\bin\Debug\annealing.exe
+C:\Users\NoteBook\documents\visual studio 2010\Projects\annealing\annealing\bin\Debug\annealing.pdb
+C:\Users\NoteBook\documents\visual studio 2010\Projects\annealing\annealing\obj\x86\Debug\annealing.csprojResolveAssemblyReference.cache
+C:\Users\Kazakov500\Documents\Visual Studio 2015\Projects\annealing\annealing\obj\x86\Debug\annealing.exe
+C:\Users\Kazakov500\Documents\Visual Studio 2015\Projects\annealing\annealing\obj\x86\Debug\annealing.pdb
+C:\Users\Kazakov500\Documents\Visual Studio 2015\Projects\annealing\annealing\bin\Debug\annealing.exe
+C:\Users\Kazakov500\Documents\Visual Studio 2015\Projects\annealing\annealing\bin\Debug\annealing.pdb
+C:\Users\Kazakov500\Documents\Visual Studio 2015\Projects\annealing\annealing\obj\x86\Debug\annealing.csprojResolveAssemblyReference.cache
+C:\Users\Kazakov500\Documents\Visual Studio 2015\Projects\annealing\annealing\obj\x86\Debug\annealing.Form1.resources
+C:\Users\Kazakov500\Documents\Visual Studio 2015\Projects\annealing\annealing\obj\x86\Debug\annealing.Properties.Resources.resources
+C:\Users\Kazakov500\Documents\Visual Studio 2015\Projects\annealing\annealing\obj\x86\Debug\annealing.csproj.GenerateResource.Cache
